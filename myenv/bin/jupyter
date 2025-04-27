@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/tranthihieu/Documents/Machine learning/myenv/bin/python" "$0" "$@"
-' '''
+#!/Users/tranthihieu/Documents/CS116/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
